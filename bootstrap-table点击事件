@@ -1,3 +1,5 @@
+详细相关：https://blog.csdn.net/rickiyeat/article/details/56483577
+
 $(function(){
             /*初始化表格*/
             $("#goods").bootstrapTable({
